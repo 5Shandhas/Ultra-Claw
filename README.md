@@ -1,7 +1,5 @@
 ﻿# Ultra-Claw Windows 新手使用说明
 
-按这个顺序用就行：
-
 一般用法：
 
 右键->运行 即可
@@ -75,3 +73,10 @@
 新手只记这一句：
 
 先跑 `setup.ps1`，再跑 `windows-start.ps1`，然后用 `ultra-claw-console.ps1` 配模型和渠道。
+
+
+本项目参考来源于U-Claw，项目地址：https://github.com/dongsheng123132/u-claw.git
+
+Contact
+邮箱: uppixer@qq.com
+Website: www.uppixer.com
